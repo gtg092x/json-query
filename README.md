@@ -4,7 +4,7 @@ Mongo conditions without mongo.
 
 ## Installation
 
-`npm i @hixme/json-conditions --save`
+`npm i json-query --save`
 
 ## Usage
 
